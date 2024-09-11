@@ -5,3 +5,7 @@
 Запускаем ScrollPumpClaim.py
 
 В файл results.txt сохраняются кол-во монет по каждому кошельку.
+
+Join to telegram - https://t.me/ildar_scripts
+
+Donate EVM wallet - 0xe7b5cb9f137C663D07EF2539678392650c8e3645
