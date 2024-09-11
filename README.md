@@ -1,3 +1,5 @@
+Claim PUMP от [ScrollPUmp](https://scrollpump.xyz/)
+
 Грузим в файл wallets.txt по строчно Приватник;прокси (формат login:pass@ip:port)
 
 Если хотите использовать рефку то в файл settings.py измените refUser = 'адрес реферального кошелька'  # Копируем из Метамаска (смешанный регистр)
